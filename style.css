@@ -1,0 +1,64 @@
+
+p{
+    margin: 0%;
+    height: 30px;
+}
+.a{
+    background-color: rgb(117, 119, 3);
+    opacity: 1;
+}
+.b{
+    background-color: rgb(117, 119, 3);
+    opacity: 0.9;
+}
+.c{
+    background-color: rgb(117, 119, 3);
+    opacity: 0.8;
+}
+.d{
+    background-color: rgb(117, 119, 3);
+    opacity: 0.7;
+}
+.e{
+    background-color: rgb(117, 119, 3);
+    opacity: 0.6;
+}
+.f{
+    background-color: rgb(117, 119, 3);
+    opacity: 0.5;
+}
+.g{
+    background-color: rgb(117, 119, 3);
+    opacity: 0.4;
+}
+.h{
+    background-color: green;
+}
+.i{
+    background-color: rgb(45, 10, 90);
+    opacity: 0.4;
+}
+.j{
+    background-color: rgb(45, 10, 90);
+    opacity: 0.5;
+}
+.k{
+    background-color: rgb(45, 10, 90);
+    opacity: 0.6;
+}
+.l{
+    background-color: rgb(45, 10, 90);
+    opacity: 0.7;
+}
+.m{
+    background-color: rgb(45, 10, 90);
+    opacity: 0.8;
+}
+.n{
+    background-color: rgb(45, 10, 90);
+    opacity: 0.9;
+}
+.o{
+    background-color: rgb(45, 10, 90);
+    opacity: 1;
+}
